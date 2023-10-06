@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Sedán",
+        "description": "Un automóvil de tamaño mediano o grande con cuatro puertas y un espacio amplio para pasajeros y carga."
+    },
+    {
+        "id": 2,
+        "name": "SUV",
+        "description": "Un vehículo deportivo utilitario que combina características de un automóvil y una camioneta, con capacidad para todo terreno."
+    },
+    {
+        "id": 3,
+        "name": "Coupé",
+        "description": "Un automóvil de dos puertas, generalmente con un diseño más deportivo y elegante."
+    },
+    {
+        "id": 4,
+        "name": "Camioneta",
+        "description": "Un vehículo con una plataforma de carga o espacio de carga detrás de los asientos delanteros."
+    },
+    {
+        "id": 5,
+        "name": "Convertible",
+        "description": "Un automóvil con techo desmontable o plegable que permite viajar con la parte superior abierta."
+    }
+]
